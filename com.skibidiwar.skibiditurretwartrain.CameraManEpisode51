@@ -1,0 +1,36 @@
+{
+    "version": "51",
+	
+    "admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterId": "ca-app-pub-3940256099942544/1033173712",
+    "admobReward": "ca-app-pub-3940256099942544/5224354917",
+    "admobAppOpenid": "ca-app-pub-3940256099942544/3419835294",
+	
+   "unityid":"3722785",
+   "unitybanner":"Banner2",
+   "unityinter":"inter2",
+   "unityreward":"Android_Rewarded_2",
+	
+   "applovinsdk":"2r0nw8Qe1pJuC-wJ6bBFTJiWTBR5C9HE_H0wQQZRDtKQsElzrwCOEvwo5LtHV9WURWPsxzH9qcZgsIdgDq4Sk-",
+   "applovinbanner":"f3470f52ca097e65",
+   "applovininter":"33d825de6be287f6",
+   "applovinreward":"ca2e757ef9c0b23a",
+   "applovinAppOpen":"c8b29a41a38882fc",
+	
+    "ironsdk": "Rewarded_Android",
+	
+    "fcbbanner": "492870309710744_492871066377335",
+    "fcbinter": "492870309710744_492870976377344",
+    "fcbreward": "Rewarded_Android",
+	
+    "yandexbanner": "R-M-2540840-1",
+    "yandexinter": "R-M-2540840-4",
+    "yandexreward": "R-M-2540840-3",
+	
+    "adscounter": "1",
+	
+    "adsSwitchInter details ": "0:auto 1:admob 2:facebook 3:applovin 4:iron 5:yandex 6:unity",
+    "adsSwitchInter": "5",
+    "adsSwitchBanner": "5",
+    "adsSwitchReward": "5"
+}
